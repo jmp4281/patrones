@@ -1,0 +1,21 @@
+bridge       
+builder
+chain of responsibility
+composite
+decorator
+facade
+factoria
+factoria abstracta
+flyweight
+iterator
+memento
+mvc
+mvvm
+observer
+proxy
+singleton                       10/04/2016
+state
+strategy
+template
+visitor
+wrapper
