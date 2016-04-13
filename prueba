@@ -11,7 +11,7 @@ iterator
 memento
 mvc
 mvvm
-observer
+observer                        13/04/2016
 proxy
 singleton                       10/04/2016
 state
@@ -19,3 +19,4 @@ strategy
 template
 visitor
 wrapper
+comando
